@@ -6,11 +6,36 @@
 
 ## https://finance.yahoo.com/news/11-blockchain-unicorns-hurun-report-194917321.html
 
+
+1. Bitmain
+Crypto mining hardware producer Bitmain has a valuation of $12 billion, despite posting a loss of $310 million in the first quarter of this year. The privately-owned Chinese company is the market leader in Bitcoin mining computers. It was originally established to develop an ASIC chip capable of mining Bitcoin, but is now also an investor in mining software, and operates Antpool, one of the largest Bitcoin mining pools. Today it opened what it claims is the “world’s largest” bitcoin mining facility in Rockdale, Texas. 
+
+2. Coinbase
+Coinbase, the largest crypto exchange in the United States, is valued at $8 billion and based in San Francisco. It was founded in 2012 and has seen $525 million in investments from venture capitalists including Andreessen Horowitz, Greylock Partners and Y Combinator. Coinbase operates in more than 30 countries and Reuters estimates that it brought in $520 million in global revenue last year. 
+
+3. Ripple
+Ripple Labs is a US-based technology company and creator of the Ripple real-time settlement system which supports the XRP cryptocurrency. The company is based in San Francisco, valued at $5 billion and its technology has been adopted by banks and payment networks such as UniCredit, UBS and Santander.
+
+4. Circle Internet Financial 
+Circle Internet Financial is a crypto finance company offering peer-to-peer payments. It’s valued at $3 billion and headquartered in Ireland. Last week, Circle announced that it is spinning out its cryptocurrency exchange Poloniex.
+
+5. Canaan
+Canaan Creative is a China-based computer hardware manufacturer, established in 2013. It specializes in Blockchain servers and ASIC microprocessor solutions for use in bitcoin mining, and is worth $3 billion. In July (after the cut off point for new data to be added to the Hurun Report) the company is said to have confidentially filed for an IPO in the U.S.
+
+6. Binance
+Binance is a global cryptocurrency exchange founded in 2017 and based in Malta. It’s valued at $2 billion and, since 2018 is considered the biggest cryptocurrency exchange in the world in terms of trading volume. Earlier this year, Binance announced a new and controversial peer-to-peer (P2P) cryptocurrency trading service in China.
+
+7. Block.One 
+Block.one is the company behind the EOS cryptocurrency. It’s was founded in 2016, is based in China and valued at $2 billion. Earlier this month, the company settled charges with the U.S. Securities and Exchange Commission, agreeing to pay a $24 million fine over its unregistered ICO.
+
+8. Dfinity 
+Dfinity describes itself as a blockchain-based cloud computing company. It was founded in 2014 and is developing a “decentralized cloud computer,” for decentralized versions of Uber, eBay, Facebook and more. It’s registered in Switzerland and its estimated value is $2 billion.
+
+
 # Cryptocurrency 
 ## 1.Bitcoin 2. Binance 3. Ethereum 4. Litecoin 5. Harmony
 # Startups 
 ## 50% Exchanges / DEX , Miners Hardware, Wallets
-
 ### 20 Exchanges 7 Mining Miner Hardware 10 Wallet 5 Trading Else Rest ~10 Payments Financial Services 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Company</th>
