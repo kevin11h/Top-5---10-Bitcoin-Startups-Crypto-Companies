@@ -9,7 +9,7 @@
 # Cryptocurrency 
 ## 1.Bitcoin 2. Binance 3. Ethereum 4. Litecoin 5. Harmony
 # Startups 
-## 50% Exchanges / DEX
+## 50% Exchanges / DEX , Miners Hardware, Wallets
 
 
 <table class="table table-bordered table-hover table-condensed">
