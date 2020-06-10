@@ -24,9 +24,7 @@ Canaan Creative is a China-based computer hardware manufacturer, established in 
 
 6. Binance
 Binance is a global cryptocurrency exchange founded in 2017 and based in Malta. It’s valued at $2 billion and, since 2018 is considered the biggest cryptocurrency exchange in the world in terms of trading volume. Earlier this year, Binance announced a new and controversial peer-to-peer (P2P) cryptocurrency trading service in China.
-
-7. Block.One 
-Block.one is the company behind the EOS cryptocurrency. It’s was founded in 2016, is based in China and valued at $2 billion. Earlier this month, the company settled charges with the U.S. Securities and Exchange Commission, agreeing to pay a $24 million fine over its unregistered ICO.
+ 
 
 8. Dfinity 
 Dfinity describes itself as a blockchain-based cloud computing company. It was founded in 2014 and is developing a “decentralized cloud computer,” for decentralized versions of Uber, eBay, Facebook and more. It’s registered in Switzerland and its estimated value is $2 billion.
