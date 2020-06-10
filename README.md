@@ -11,7 +11,7 @@
 # Startups 
 ## 50% Exchanges / DEX , Miners Hardware, Wallets
 
-
+### 20 Exchanges 7 Mining Miner Hardware 10 Wallet 5 Trading Else Rest ~10 Payments Financial Services 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Company</th>
 <th title="Field #2">Founded</th>
@@ -295,3 +295,10 @@
 </tbody></table>
 
 ![](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/03/2017.02.27-Most-Active-VCs-v7.png)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_exported_Electronic_integrated_circuits_in_2016.svg/1200px-Who_exported_Electronic_integrated_circuits_in_2016.svg.png)
+
+
+![](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Copper_Clean_Energy_Transition_V12.jpg)
+
+![](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/All-the-Minerals-in-the-World_V5.jpg)
